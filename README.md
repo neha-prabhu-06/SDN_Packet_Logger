@@ -213,10 +213,8 @@ IP Packet: 10.0.0.1 -> 10.0.0.2 | Protocol: 1
 
 ## 👨‍💻 Author
 
-* Your Name
+* Neha Prabhu
+* PES2UG24CS312
 
 ---
 
-## 📜 License
-
-This project is for educational purposes.
